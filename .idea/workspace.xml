@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0717f76-827e-49e4-8ac3-43f9e68ac703" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Apps\IntelliJ IDEA Community Edition 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kt8yQEzV4gXyWH3k4pHnVoFPyG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0717f76-827e-49e4-8ac3-43f9e68ac703" name="Default Changelist" comment="" />
+      <created>1606508780917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606508780917</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="914" y="235" key="FileChooserDialogImpl" timestamp="1606508825524">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="914" y="235" key="FileChooserDialogImpl/0.0.1920.1040/1920.6.1920.1040@0.0.1920.1040" timestamp="1606508825524" />
+    <state x="635" y="139" key="SettingsEditor" timestamp="1606508875169">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="635" y="139" key="SettingsEditor/0.0.1920.1040/1920.6.1920.1040@0.0.1920.1040" timestamp="1606508875169" />
+  </component>
+</project>
